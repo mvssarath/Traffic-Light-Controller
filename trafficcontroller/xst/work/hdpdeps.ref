@@ -1,0 +1,8 @@
+V3 9
+EN work/TRAFFICWITHOUTSENSOR 0 \
+      FL C:/Users/Ghost/Documents/Xilinx_Workspaces/trafficcontroller/MAIN.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/TRAFFICWITHOUTSENSOR/BEH 0 \
+      FL C:/Users/Ghost/Documents/Xilinx_Workspaces/trafficcontroller/MAIN.vhd \
+      EN work/TRAFFICWITHOUTSENSOR 0 CP in CP out CP states CP integer CP std_logic \
+      CP COUNTER

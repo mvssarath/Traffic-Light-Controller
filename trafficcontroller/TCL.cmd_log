@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Ghost/Documents/Xilinx_Workspaces/trafficcontroller/TCL.xst" -ofn "C:/Users/Ghost/Documents/Xilinx_Workspaces/trafficcontroller/TCL.syr" 

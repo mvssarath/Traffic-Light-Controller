@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLParsers" num="164" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Ghost/Documents/Xilinx_Workspaces/trafficcontroller/MAIN.vhd</arg>&quot; Line <arg fmt="%d" index="2">16</arg>. <arg fmt="%s" index="3">parse error, unexpected COMPONENT</arg>
+</msg>
+
+<msg type="error" file="HDLParsers" num="164" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Ghost/Documents/Xilinx_Workspaces/trafficcontroller/MAIN.vhd</arg>&quot; Line <arg fmt="%d" index="2">19</arg>. <arg fmt="%s" index="3">parse error, unexpected TOKOUT</arg>
+</msg>
+
+</messages>
+

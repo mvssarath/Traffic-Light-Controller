@@ -1,0 +1,3 @@
+vhdl work "COUNTER.vhd"
+vhdl work "MAIN.vhd"
+vhdl work "tb.vhd"
